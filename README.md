@@ -35,8 +35,13 @@ El modelo utiliza técnicas no supervisadas para identificar patrones y segmenta
    - Cálculo del **Silhouette Score** para evaluar la cohesión y separación entre clusters
 
 ## 📁 Estructura del Repositorio
-
-├── data/ │ └── inf_01.csv # Dataset original ├── notebooks/ │ └── clustering_kmeans.ipynb # Notebook con el análisis y entrenamiento del modelo ├── README.md 
+```bash
+├── data/
+│   └── inf_01.csv              # Dataset original
+├── notebooks/
+│   └── clustering_kmeans.ipynb # Notebook con el análisis y entrenamiento del modelo
+├── README.md                   # Documentación del proyecto
+ ```
 
 # Documentación del proyecto
 
@@ -49,13 +54,13 @@ El modelo utiliza técnicas no supervisadas para identificar patrones y segmenta
 ## 🚀 Cómo ejecutar
 
 1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
-   ```
+```bash
+git clone https://github.com/tu_usuario/tu_repositorio.git
+cd tu_repositorio
+```
 2. Abre el entorno Jupyter Notebook:
-
-  ```bash
-  jupyter notebook
-  ```
+```bash
+jupyter notebook
+```
+3. Ejecuta el archivo clustering_kmeans.ipynb paso a paso.
   
