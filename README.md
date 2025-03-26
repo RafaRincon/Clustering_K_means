@@ -40,6 +40,9 @@ El modelo utiliza técnicas no supervisadas para identificar patrones y segmenta
 │   └── inf_01.csv              # Dataset original
 ├── notebooks/
 │   └── clustering_kmeans.ipynb # Notebook con el análisis y entrenamiento del modelo
+├── models/
+│   ├── scaler.pkl              # Objeto de escalado (por ejemplo, StandardScaler)
+│   └── kmeans_model.pkl        # Modelo entrenado de KMeans
 ├── README.md                   # Documentación del proyecto
  ```
 
