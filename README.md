@@ -58,8 +58,8 @@ El modelo utiliza técnicas no supervisadas para identificar patrones y segmenta
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/RafaRincon/Clustering_K_means.git
+cd Clustering_K_means
 ```
 2. Abre el entorno Jupyter Notebook:
 ```bash
